@@ -1,4 +1,3 @@
-![logo](https://github.com/Chashmishlish/Chashmishlish/blob/main/Banner.png)
 
 # 💫 About Me:
 🔭 I'm currently learning about object-oriented programming and its implementation. Focusing mainly on JavaScript<br>👯 I’m looking to collaborate on on exciting open-source projects that challenge me to grow as a developer and contribute meaningfully to the community.
